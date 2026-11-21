@@ -1,4 +1,4 @@
-# Pharmaceutical Sales Time Series Analysis
+Pharmaceutical Sales Time Series Analysis
 
 Time-series exploratory analysis and trend visualization of pharmaceutical drug categories (such as `M01AB` and `M01AE`) using Python, Pandas, and Matplotlib.
 
